@@ -1,8 +1,7 @@
 layout_spectrum: 0
-typography_spectrum: 0.9551972
 color:
-  saturation: 0.6630824
-  lightness: 0.4247312
+  saturation: 0.8405018
+  lightness: 0.4086021
   brandStrength: 0.3355802
   brandColors:
     - '#FDFDFD'
@@ -10,5 +9,6 @@ color:
     - '#6A6A6A'
     - '#919191'
     - '#CDCDCD'
-  rhythmicContrast: 0.4677419
+  rhythmicContrast: 0.5896057
+typography_spectrum: 0.9551972
 name: 'Hamilton Barnes, LLC'
